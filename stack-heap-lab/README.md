@@ -1,4 +1,4 @@
-# ava Stack \& Heap Memory Demos
+# Java Stack \& Heap Memory Demos
 
 # Two small Java programs that show how Java uses Stack and Heap memory.
 
